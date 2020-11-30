@@ -1,2 +1,3 @@
 # simpleCanculator
-in order to open this program you need to run Main class
+This programm was created for fun.
+in order to launch this program you need to run Main class.
